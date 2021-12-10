@@ -28,13 +28,13 @@ label {
 }
 
 .desc { 
-    color: #fff;
-    margin: 7px 0;
-    font-size: 50px;
-    font-weight: 600;
-    text-shadow: 2px 2px 1px rgba(0,0,0,0.7);
-    font-family: 'Dancing Script', cursive;
-    margin-top: 350px;
+    font-size: 32px;
+    color:#fff;
+    background-color: rgba(0, 0, 0, 0.335);
+    /*text-transform: uppercase;*/
+    text-align: center;
+    font-weight: 700;    
+    margin-top: 390px;
 }
 
 .linea-division {
@@ -111,13 +111,13 @@ border-radius: 15px;
 
 
 .desc {
-    color: #fff;
-    margin: 7px 0;
-    font-size: 30px;
-    font-weight: 600;
-    text-shadow: 2px 2px 1px rgba(0,0,0,0.7);
-    font-family: 'Dancing Script', cursive;
-    margin-top: 350px;
+    font-size: 32px;
+    color:#fff;
+    background-color: rgba(0, 0, 0, 0.335);
+    /*text-transform: uppercase;*/
+    text-align: center;
+    font-weight: 700;    
+    margin-top: 390px;
 }
 
 
